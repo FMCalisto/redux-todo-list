@@ -12,9 +12,15 @@ import store from '../store';
 
 
 const TodoApp = () => (
-  
+  <div>
+    <AddTodo />
+    <TodoList />
+    <Footer />
+  </div>
 );
 
 export default (
-  
+  <Provider store={store}>
+    <TodoApp />
+  </Provider>
 )
