@@ -1,5 +1,5 @@
 /*
- * @author: Francisco Maria Calisto
+ *
  */
 
 let nextTodoId = 0;

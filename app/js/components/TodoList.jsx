@@ -1,5 +1,5 @@
 /*
- * @author: Francisco Maria Calisto
+ *
  */
 
 import React from 'react';

@@ -1,5 +1,5 @@
 /*
- * @author: Francisco Maria Calisto
+ *
  */
 
 import { createStore, combineReducers } from 'redux';
